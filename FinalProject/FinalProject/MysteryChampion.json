@@ -1,0 +1,70 @@
+{
+  "MasteryDataTypes": {
+    "Champions": [
+      {
+        "ChampionID": " ",
+        "ChampionLevel": "",
+        "TotalChampionPoints": "",
+        "CurrentLevelChampionPoints": "",
+        "ChampionPointsNeeded": "",
+        "TokensEarned": ""
+      },
+      {
+        "ChampionID": " ",
+        "ChampionLevel": "",
+        "TotalChampionPoints": "",
+        "CurrentLevelChampionPoints": "",
+        "ChampionPointsNeeded": "",
+        "TokensEarned": ""
+      },
+      {
+        "ChampionID": " ",
+        "ChampionLevel": "",
+        "TotalChampionPoints": "",
+        "CurrentLevelChampionPoints": "",
+        "ChampionPointsNeeded": "",
+        "TokensEarned": ""
+      },
+      {
+        "ChampionID": " ",
+        "ChampionLevel": "",
+        "TotalChampionPoints": "",
+        "CurrentLevelChampionPoints": "",
+        "ChampionPointsNeeded": "",
+        "TokensEarned": ""
+      },
+      {
+        "ChampionID": " ",
+        "ChampionLevel": "",
+        "TotalChampionPoints": "",
+        "CurrentLevelChampionPoints": "",
+        "ChampionPointsNeeded": "",
+        "TokensEarned": ""
+      },
+      {
+        "ChampionID": " ",
+        "ChampionLevel": "",
+        "TotalChampionPoints": "",
+        "CurrentLevelChampionPoints": "",
+        "ChampionPointsNeeded": "",
+        "TokensEarned": ""
+      },
+      {
+        "ChampionID": " ",
+        "ChampionLevel": "",
+        "TotalChampionPoints": "",
+        "CurrentLevelChampionPoints": "",
+        "ChampionPointsNeeded": "",
+        "TokensEarned": ""
+      },
+      {
+        "ChampionID": " ",
+        "ChampionLevel": "",
+        "TotalChampionPoints": "",
+        "CurrentLevelChampionPoints": "",
+        "ChampionPointsNeeded": "",
+        "TokensEarned": ""
+      }
+    ]
+  }
+}

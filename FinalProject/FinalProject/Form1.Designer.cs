@@ -61,7 +61,6 @@ namespace FinalProject
             this.LevelBox.Name = "LevelBox";
             this.LevelBox.Size = new System.Drawing.Size(87, 20);
             this.LevelBox.TabIndex = 0;
-            this.LevelBox.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // ID_Box
             // 
