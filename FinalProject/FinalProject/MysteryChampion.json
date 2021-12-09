@@ -2,68 +2,76 @@
   "MasteryDataTypes": {
     "Champions": [
       {
-        "ChampionID": " ",
-        "ChampionLevel": "",
-        "TotalChampionPoints": "",
-        "CurrentLevelChampionPoints": "",
-        "ChampionPointsNeeded": "",
-        "TokensEarned": ""
+        "Name": "Doof",
+        "ChampionID": "48F35G43G",
+        "ChampionLevel": 1,
+        "TotalChampionPoints": 345,
+        "CurrentLevelChampionPoints": 3424,
+        "ChampionPointsNeeded": 24,
+        "TokensEarned": 32
       },
       {
-        "ChampionID": " ",
-        "ChampionLevel": "",
-        "TotalChampionPoints": "",
-        "CurrentLevelChampionPoints": "",
-        "ChampionPointsNeeded": "",
-        "TokensEarned": ""
+        "Name": "Brandon",
+        "ChampionID": "353D33RGD",
+        "ChampionLevel": 23,
+        "TotalChampionPoints": 145,
+        "CurrentLevelChampionPoints": 24424,
+        "ChampionPointsNeeded": 2,
+        "TokensEarned": 62
       },
       {
-        "ChampionID": " ",
-        "ChampionLevel": "",
-        "TotalChampionPoints": "",
-        "CurrentLevelChampionPoints": "",
-        "ChampionPointsNeeded": "",
-        "TokensEarned": ""
+        "Name": "Sam",
+        "ChampionID": "6G5T4334",
+        "ChampionLevel": 67,
+        "TotalChampionPoints": 55545,
+        "CurrentLevelChampionPoints": 4424,
+        "ChampionPointsNeeded": 71,
+        "TokensEarned": 22
       },
       {
-        "ChampionID": " ",
-        "ChampionLevel": "",
-        "TotalChampionPoints": "",
-        "CurrentLevelChampionPoints": "",
-        "ChampionPointsNeeded": "",
-        "TokensEarned": ""
+        "Name": "Santi",
+        "ChampionID": "E39K362A",
+        "ChampionLevel": 23,
+        "TotalChampionPoints": 224,
+        "CurrentLevelChampionPoints": 35424,
+        "ChampionPointsNeeded": 64,
+        "TokensEarned": 82
       },
       {
-        "ChampionID": " ",
-        "ChampionLevel": "",
-        "TotalChampionPoints": "",
-        "CurrentLevelChampionPoints": "",
-        "ChampionPointsNeeded": "",
-        "TokensEarned": ""
+        "Name": "Seth",
+        "ChampionID": "7H2K291",
+        "ChampionLevel": 10,
+        "TotalChampionPoints": 245,
+        "CurrentLevelChampionPoints": 3264,
+        "ChampionPointsNeeded": 45,
+        "TokensEarned": 21
       },
       {
-        "ChampionID": " ",
-        "ChampionLevel": "",
-        "TotalChampionPoints": "",
-        "CurrentLevelChampionPoints": "",
-        "ChampionPointsNeeded": "",
-        "TokensEarned": ""
+        "Name": "Kourtney",
+        "ChampionID": "U373K37S",
+        "ChampionLevel": 35,
+        "TotalChampionPoints": 4593,
+        "CurrentLevelChampionPoints": 33532,
+        "ChampionPointsNeeded": 23,
+        "TokensEarned": 123
       },
       {
-        "ChampionID": " ",
-        "ChampionLevel": "",
-        "TotalChampionPoints": "",
-        "CurrentLevelChampionPoints": "",
-        "ChampionPointsNeeded": "",
-        "TokensEarned": ""
+        "Name": "Jamie",
+        "ChampionID": "S83K3RH8",
+        "ChampionLevel": 145,
+        "TotalChampionPoints": 3456743,
+        "CurrentLevelChampionPoints": 3235,
+        "ChampionPointsNeeded": 32,
+        "TokensEarned": 164
       },
       {
-        "ChampionID": " ",
-        "ChampionLevel": "",
-        "TotalChampionPoints": "",
-        "CurrentLevelChampionPoints": "",
-        "ChampionPointsNeeded": "",
-        "TokensEarned": ""
+        "Name": "Bryan",
+        "ChampionID": "J37S48K",
+        "ChampionLevel": 12,
+        "TotalChampionPoints": 45,
+        "CurrentLevelChampionPoints": 23,
+        "ChampionPointsNeeded": 12,
+        "TokensEarned": 8
       }
     ]
   }
